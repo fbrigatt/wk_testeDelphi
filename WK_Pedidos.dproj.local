@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/17 13:44:44.000.763,=C:\Users\Frederico Brigatte\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/17 13:51:23.000.460,C:\wk_teste\U_PDV.pas=C:\Users\Frederico Brigatte\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/17 13:51:23.000.460,C:\wk_teste\U_PDV.dfm=C:\Users\Frederico Brigatte\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/03/17 13:51:48.000.626,C:\wk_teste\WK_Pedidos.dproj=C:\Users\Frederico Brigatte\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/03/17 13:52:58.000.459,=C:\wk_teste\Unit1.pas</Transaction>
+    <Transaction>2021/03/17 13:53:44.000.449,C:\wk_teste\U_dm.dfm=C:\wk_teste\Unit1.dfm</Transaction>
+    <Transaction>2021/03/17 13:53:44.000.449,C:\wk_teste\U_dm.pas=C:\wk_teste\Unit1.pas</Transaction>
+    <Transaction>2021/03/17 15:35:28.000.803,=C:\wk_teste\Unit1.pas</Transaction>
+    <Transaction>2021/03/17 15:47:05.000.008,C:\wk_teste\Unit1.pas=C:\wk_teste\U_Pesquisa_Cliente.pas</Transaction>
+    <Transaction>2021/03/17 15:47:05.000.008,C:\wk_teste\Unit1.dfm=C:\wk_teste\U_Pesquisa_Cliente.dfm</Transaction>
+    <Transaction>2021/03/17 21:19:47.000.067,=C:\wk_teste\Unit1.pas</Transaction>
+    <Transaction>2021/03/17 21:20:23.000.779,C:\wk_teste\Unit1.pas=C:\wk_teste\Classe\WK.Cliente.pas</Transaction>
+    <Transaction>2021/03/17 22:51:56.000.823,=C:\wk_teste\Classe\WK.Produto.pas</Transaction>
+    <Transaction>2021/03/18 10:17:33.000.350,C:\wk_teste\U_Pesquisa.pas=C:\wk_teste\U_Pesquisa_Cliente.pas</Transaction>
+    <Transaction>2021/03/18 10:17:33.000.350,C:\wk_teste\U_Pesquisa.dfm=C:\wk_teste\U_Pesquisa_Cliente.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
